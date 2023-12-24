@@ -13,6 +13,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World");
             Console.WriteLine("I just added this in vs code");
             Console.WriteLine("I just add this line from command line repo");
+            Console.WriteLine("This line is added to show the staging area");
         }
     }
 }
